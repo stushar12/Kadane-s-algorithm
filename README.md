@@ -1,2 +1,2 @@
-# Kadane-s-algorithm
+# Kadane's algorithm
 Kadane's algorihtm
